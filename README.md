@@ -55,7 +55,7 @@ Uso de React Yarn para la ejecución del proyecto
 
 ## Repositorio en Github
 
-https://github.com/lucho2387/vapeshop
+https://github.com/lucho2387/vapeshop1
 
 ### Autor
 
